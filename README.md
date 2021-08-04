@@ -1,7 +1,7 @@
 # Esp32BluetoothApp Part2
 Code for bi-directional Bluetooth communication between ESP32 and Phone (with MIT App Inventor). Please make sure that your ESP32 has integrated Bluetooth. Device used for coding: ESP32-WROOM-32D. Youtube explanation is available (see below).
 
-This code is based on part 1 in which covers uni-directional communication from your phone to the ESP32:
+This code is based on part 1 which covers uni-directional communication from your phone to the ESP32:
 https://github.com/mo-thunderz/Esp32BluetoothApp
 
 # Installation
