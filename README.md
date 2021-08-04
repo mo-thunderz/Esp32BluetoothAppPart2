@@ -22,6 +22,7 @@ https://github.com/mo-thunderz/Esp32BluetoothApp
 # How to use
 Part 1:
 https://www.youtube.com/watch?v=aM2ktMKAunw
+
 Part 2:
 
 
