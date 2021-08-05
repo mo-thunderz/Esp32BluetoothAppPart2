@@ -94,7 +94,6 @@ void loop() {
         if(value == 1)
           time_button3 = now;
         break;
-        break;
     }
   }
 }
