@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=OvWd_xZ12E4
 
 # Updates
 * 28.09.2022 - MIT App inventor updated the BluetoothClient without backward compatibility. Code was switched to new client.
-* 29.09.2022 - Bug fixes.
+* 29.09.2022 - Bug fixes and added permission request for usage Bluetooth.
 
 Have fun ;-)
 
